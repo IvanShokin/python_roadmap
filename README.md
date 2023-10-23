@@ -1,4 +1,7 @@
+<details open>
+<summary> Оглавление </summary>
 [[_TOC_]]
+</details>
 
 # На изучение
 
